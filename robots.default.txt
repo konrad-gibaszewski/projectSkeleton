@@ -1,0 +1,5 @@
+User-agent: *
+# Disallow: /admin/
+# Allow: /rss/
+
+# Sitemap: http://www.<TLD-Domain>/sitemap.xml
