@@ -12,15 +12,15 @@ Introductory project description follows here.
 * Development server (*\<ServerName\>*, branch: master, auto pull): <http://dev.\<projectLocation\>>
 \- [auto pull](http://dev.\<projectLocation\>/git-pull.php)
 \- [log](http://dev.\<projectLocation\>/repoData/log/git-auto-pulls.log)
-* Project's Wiki: <https://github.com/urbanmedia/\<projectName\>/wiki>
+* Project's Wiki: <https://github.com/\<gitHubAccountName\>/\<projectName\>/wiki>
 
 ## Get started
 * Change user to www-data and create project's directory. Keep it empty until next step.
-* Clone project's repository into project's directory: ```git clone https://github.com/urbanmedia/<projectName>.git .```
-* [Follow the guidelines](https://github.com/urbanmedia/tgs/wiki/Git-%7C-Guidelines) when working with Git.
+* Clone project's repository into project's directory: ```git clone https://github.com/\<gitHubAccountName\>/<projectName>.git .```
+* [Follow the guidelines](https://github.com/syncube/projectSkeleton/wiki/Git_Guidelines) when working with Git.
 
 ## Git HowTo
-* Urban Media manuals: <https://github.com/urbanmedia/tgs/wiki>
+* Manuals: <https://github.com/syncube/projectSkeleton/wiki>
 * Official Git documentation: <http://http://git-scm.com/doc>
 * Book - **Pro Git** by *Scot Chacon*: <http://http://git-scm.com/book>
 
