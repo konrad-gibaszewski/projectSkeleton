@@ -4,6 +4,8 @@
 .htpasswd
 .htaccess
 robots.txt
+*.log
+*.ini
 
 # Auto git pull
 repoData/config/config.ini
